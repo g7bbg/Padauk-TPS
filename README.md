@@ -19,7 +19,7 @@ As this chip has no onboard EEPROM an external 24C02 I2C EEPROM is used.<br>
 
 Timer 16 is used as a 1 Millisecond interrupt for the wait instructions<br>
 Instruction 5-9 is now PWM with the A register representing  the pulse width<br>
-Instruction 5-10 gives servo style PWM between ~ 1 an 2 milli seconds.<br>
+Instruction 5-10 gives servo style PWM between ~ 1 and 2 milli seconds.<br>
 
 
 
