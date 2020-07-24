@@ -3,6 +3,9 @@ Padauk version of Elektronic-labor TPS
 
 This a port of the TPS system to a Padauk PFS154-S16 written in 'Mini-C'.<br>
 As this chip has no onboard EEPROM an external 24C02 I2C EEPROM is used.<br>
+<br>
+<b>Important reset for this system is by power cycling</b>
+
 
 <b>The port mapping is as follows:</b>
 <ol>
